@@ -139,7 +139,7 @@ var SealProofInfos = map[RegisteredSealProof]*SealProofInfo{
 		WinningPoStProof:           RegisteredPoStProof_StackedDrgWinning64GiBV1,
 		WindowPoStProof:            RegisteredPoStProof_StackedDrgWindow64GiBV1,
 	},
-        StackedDrg2KiBV2: {
+        RegisteredSealProof_StackedDrg2KiBV2: {
 		SectorSize:                 2 << 10,
 		WinningPoStProof:           RegisteredPoStProof_StackedDrgWinning2KiBV2,
 		WindowPoStProof:            RegisteredPoStProof_StackedDrgWindow2KiBV2,

@@ -4,6 +4,7 @@ go 1.13
 
 require (
 	github.com/filecoin-project/go-address v0.0.3
+	github.com/filecoin-project/go-state-types v0.0.0-20200928172055-2df22083d8ab
 	github.com/ipfs/go-cid v0.0.7
 	github.com/multiformats/go-multihash v0.0.14
 	github.com/stretchr/testify v1.6.1
